@@ -96,7 +96,7 @@ html {
       width: 100%;
     }
     tbody{
-      min-width:450px !important;
+       min-width:450px; /* remove !important  */
     }
   
     th, td {
